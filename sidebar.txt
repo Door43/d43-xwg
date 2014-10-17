@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xwg:home|Door43 (xwg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xwg|d43-xwg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xwg/archive/master.zip|d43-xwg.zip]]
+
+**Recent Changes**
+{{changes>ns = xwg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xwg|Ethnologue data]]
+
